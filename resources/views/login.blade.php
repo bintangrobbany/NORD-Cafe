@@ -21,7 +21,7 @@
                 <a href="{{ url('/') }}" class="inline-block mb-4">
                     <img src="{{ asset('LOGO_PRIMER.png') }}" alt="Logo Brown Bean Coffee" class="h-24 mx-auto">
                 </a>
-                <h1 class="text-2xl font-bold text-gray-800">Selamat Datang Kembali!</h1>
+                <h1 class="text-2xl font-bold text-gray-800">INFOR MBELDOS!</h1>
                 <p class="text-sm text-gray-500">Silakan masuk untuk melanjutkan pesanan Anda.</p>
             </div>
             
